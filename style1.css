@@ -1,0 +1,27 @@
+body {
+  background-color: #375;
+}
+
+#canvas {
+  display: block;
+  margin: 5px auto;
+  border: 10px solid #657;
+  
+  
+}
+#level{
+    
+    align-content: center;
+    background-color: white;
+}
+.s1{
+    
+    text-align: center;
+    font-family: courier;
+    margin-top: 30px;
+}
+.canvas{
+    
+    background-color: black;
+    
+}
