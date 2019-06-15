@@ -1,2 +1,2 @@
 # Snakegame
-it is a gmae
+it is a game
